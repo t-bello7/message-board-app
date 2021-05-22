@@ -1,2 +1,10 @@
 .env
-/__pycache__
+config/__pycache__/__init__.cpython-39.pyc 
+config/__pycache__/settings.cpython-39.pyc   
+config/__pycache__/urls.cpython-39.pyc  
+config/__pycache__/wsgi.cpython-39.pyc
+posts/__pycache__/__init__.cpython-39.pyc   
+posts/__pycache__/admin.cpython-39.pyc
+posts/__pycache__/models.cpython-39.pyc
+posts/__pycache__/models.cpython-39.pyc
+/__pycache__/
