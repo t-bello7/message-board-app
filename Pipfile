@@ -12,6 +12,9 @@ python-dotenv = "==0.17.1"
 pytz = "==2021.1"
 sqlparse = "==0.4.1"
 gunicorn = "*"
+whitenoise = "*"
+psycopg2 = "*"
+django-environ = "*"
 
 [dev-packages]
 
